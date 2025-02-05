@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 Hey, I’m Salman Shaid!<br>I'm a React Developer from Bangladesh with a strong passion for building interactive and scalable web applications.<br><br>🔭 I’m currently exploring Next.js to enhance my full-stack development skills.<br>💡 I love solving problems and contributing to open-source projects.<br>🚀 My goal is to build impactful digital solutions that make a difference. <br>🎲 **Fun fact:** Debugging is like being the detective in a crime movie where you are also the murderer.</p>
+<p align="left">👋 Hey, I’m Salman Shaid!<br>I'm a React Developer from Bangladesh with a strong passion for building interactive and scalable web applications.<br><br>🔭 I’m currently exploring Next.js to enhance my full-stack development skills.<br>💡 I love solving problems and contributing to open-source projects.<br>🚀 My goal is to build impactful digital solutions that make a difference. <br>🎲 Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.</p>
 
 ###
 
