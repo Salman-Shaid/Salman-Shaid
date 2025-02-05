@@ -14,6 +14,7 @@
   <a href="https://x.com/Salmanshaid6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <p align="center"> You can reach me at: <strong><a href="tel:+8801761619796">01761619796</a></strong> </p>
 </div>
 
 ###
