@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://github.com/Salman-Shaid/Salman-Shaid/blob/main/profile%20banner.png"  />
+  <img src="https://raw.githubusercontent.com/Salman-Shaid/Salman-Shaid/main/profile%20banner.png" alt="Profile banner showing Salman Shaid's personal branding and logo"/>
 </div>
 
 ###
@@ -25,20 +25,27 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi there! </h1>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-###
+<p align="left">
+  Hi, I’m <strong>Salman Shaid</strong>, a dedicated <strong>React Developer</strong> based in Bangladesh 🇧🇩.<br>
+  I specialize in crafting <strong>dynamic, responsive, and scalable web applications</strong> that provide seamless user experiences and real-world impact.<br><br>
+  <strong>What I'm focused on:</strong><br>
+  &bull; Currently exploring <strong>Next.js</strong> to strengthen my full-stack capabilities<br>
+  &bull; Passionate about solving complex problems and contributing to open-source projects<br>
+  &bull; Committed to building digital solutions that are purposeful and impactful<br><br>
+  <strong>Fun Fact:</strong> Debugging is like being the detective in a crime movie… where <em>you're also the murderer </em>.😄
+</p>
 
-<p align="left">👋 Hey, I’m Salman Shaid!<br>I'm a React Developer from Bangladesh with a strong passion for building interactive and scalable web applications.<br><br>🔭 I’m currently exploring Next.js to enhance my full-stack development skills.<br>💡 I love solving problems and contributing to open-source projects.<br>🚀 My goal is to build impactful digital solutions that make a difference. <br>🎲 Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.</p>
 
 ###
 ## 🛠 Skills
 
-### 🚀 Frontend :
+###  Frontend :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
@@ -46,14 +53,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
+
+
 </div>
 
-### 🛠 Backend :
+###  Backend :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
@@ -63,12 +70,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 </div>
 
-### ⚡ Tools :
+###  Tools :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
@@ -85,7 +90,7 @@
 
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">   My Stats :</h3>
 
 ###
 
