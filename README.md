@@ -107,30 +107,3 @@
   
   <img src="https://raw.githubusercontent.com/Salman-Shaid/Salman-Shaid/output/snake.svg" alt="Snake animation" />
   
-  ### <div align="center">
-    <img src="https://raw.githubusercontent.com/Salman-Shaid/Salman-Shaid/main/profile%20banner.png" alt="Profile banner showing Salman Shaid's personal branding and logo"/>
-  </div>
-  
-  ###
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/salman-shaid-93001734b/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="https://www.youtube.com/@salmanshaid2537" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-    </a>
-    <a href="https://x.com/Salmanshaid6" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-    </a>
-    <p align="center"> You can reach me at: <strong><a href="tel:+8801761619796">01761619796</a></strong> </p>
-  </div>
-  
-  ###
-  
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Salman-Shaid.Salman-Shaid&"  />
-  </div>
-  
-  ###
-  
